@@ -1,5 +1,5 @@
 
-mkdir -p sktask1
+mkdir sktask1
 
 cd sktask1
 
