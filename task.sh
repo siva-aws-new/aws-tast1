@@ -1,4 +1,4 @@
-
+#!/bin/bash
 mkdir sktask1
 
 cd sktask1
